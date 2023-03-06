@@ -1,0 +1,19 @@
+# ignore all files from .op - except .keep files
+.op/**
+!.op/.keep
+
+# ignore all files from data - except .keep files
+data/**
+!data/.keep
+
+# ignore all files from docs - except .keep files
+docs/**
+!docs/.keep
+
+# ignore all files from input - except .keep files
+input/**
+!input/.keep
+
+# ignore all files from output - except .keep files
+output/**
+!output/.keep
