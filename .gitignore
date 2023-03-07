@@ -17,3 +17,10 @@ input/**
 # ignore all files from output - except .keep files
 output/**
 !output/.keep
+
+
+# programs
+
+## config
+programs/.config/**
+!programs/.config/.keep
