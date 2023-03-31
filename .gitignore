@@ -24,3 +24,7 @@ output/**
 ## config
 programs/.config/**
 !programs/.config/.keep
+
+## chroma
+programs/src/notebooks/**/*.chroma
+programs/src/notebooks/**/chroma_logs*.log
